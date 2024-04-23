@@ -3,6 +3,6 @@
 
 MovieLens 100K Dataset taken from: https://grouplens.org/datasets/movielens/100k/ needs to be downloaded.
 
-The Jupyter Notebook contains a superficial dataset exploration and the implementation for a content-based recommender model.
+The Jupyter Notebook contains a explorative dataset analysis and the implementation for a simple, content-based recommender.
 Results are shown in the Jupyter Notebook file.
 
